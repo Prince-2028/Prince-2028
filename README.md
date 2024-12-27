@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Prince
 
 ## 🌟 About Me
 - 🎓 I'm a **Student** currently learning and building projects in web development.
@@ -27,6 +27,13 @@
 - **Problem Solving**: Ability to think critically and solve issues efficiently.
 - **Collaboration**: Skilled in working with teams using Git and GitHub.
 - **Time Management**: Managing academic workload while improving skills.
+
+---
+## 🚀 Currently Learning
+I'm always excited to learn new technologies to expand my knowledge and grow as a developer. Here's what I'm currently diving into:
+- **Node.js**: Building server-side applications and REST APIs.
+- **React APIs**: Working with Context API, Redux, and Hooks to manage state effectively.
+- **Backend Development**: Exploring how to connect frontend apps with backend servers and databases.
 
 ---
 
