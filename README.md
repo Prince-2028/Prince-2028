@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🎓 I'm a **Student** currently learning and building projects in web development.
-- 🖥️ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **Git**.
+- 🖥️ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**,**Git**, and **Figma**
 - 🚀 Passionate about creating responsive and user-friendly websites.
 - 🌱 Currently enhancing my skills and learning new frameworks.
 - 📫 Reach me at: [Prince] | [https://www.linkedin.com/in/prince-kumar-901bb3274/]
