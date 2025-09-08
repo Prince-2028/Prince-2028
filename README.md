@@ -51,7 +51,7 @@ I'm always excited to learn new technologies to expand my knowledge and grow as 
 
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/prince-kumar-901bb3274/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prince-lastname-4a1042350/)
 - 🌐 [Portfolio Website]:(https://princefolioverse.netlify.app/)
 - ✉️ Reach at : [pk20287022@gmail.com]
 - 
