@@ -45,6 +45,7 @@ I'm always excited to learn new technologies to expand my knowledge and grow as 
 - **Node.js**: Building server-side applications and REST APIs.
 - **React APIs**: Working with Context API, Redux, and Hooks to manage state effectively.
 - **Backend Development**: Exploring how to connect frontend apps with backend servers and databases.
+- Artificial Intelligence (AI): Learning the basics of Machine Learning, Natural Language Processing (NLP), and how AI can be integrated into web applications for smarter solutions.
 
 ---
 
