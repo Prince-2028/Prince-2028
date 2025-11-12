@@ -47,7 +47,7 @@ I'm always excited to learn new technologies to expand my knowledge and grow as 
 - **Backend Development**: Exploring how to connect frontend apps with backend servers and databases.
 - Artificial Intelligence (AI): Learning the basics of Machine Learning, Natural Language Processing (NLP), and how AI can be integrated into web applications for smarter solutions.
 
----
+--
 
 
 
