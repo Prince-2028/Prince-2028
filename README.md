@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Prince Kumar
 
-## 🚀 Full Stack Developer | AI & LLM Enthusiast
+##  Full Stack Developer | AI & LLM Enthusiast
 
 Passionate Full Stack Developer with experience in building scalable web applications, REST APIs, AI-powered solutions, and modern user interfaces. Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Docker, and Machine Learning.
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 - 🎓 B.Tech Student & Software Developer
 - 💻 Building Full Stack Web Applications using MERN Stack
@@ -17,7 +17,7 @@ Passionate Full Stack Developer with experience in building scalable web applica
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -55,27 +55,27 @@ Passionate Full Stack Developer with experience in building scalable web applica
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ♟️ ChessVanguard
+###  ChessVanguard
 MERN-based Chess Academy Management System with Role-Based Access Control.
 
-### 🤖 AI Resume Builder
+###  AI Resume Builder
 Generate professional resumes using AI and Gemini API.
 
-### 📄 RAG Chatbot
+###  RAG Chatbot
 Built a Retrieval-Augmented Generation system using:
 - PDF Processing
 - Vector Embeddings
 - FAISS
 - LLM Integration
 
-### 🚆 IRCTC Auto-Fill Extension
+###  IRCTC Auto-Fill Extension
 Chrome Extension used by 4000+ users for faster ticket booking.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -88,20 +88,20 @@ Chrome Extension used by 4000+ users for faster ticket booking.
 
 ---
 
-## 🌐 Portfolio & Contact
+##  Portfolio & Contact
 
-💼 Portfolio: https://princefolioverse.netlify.app/
+ Portfolio: https://princefolioverse.netlify.app/
 
-🔗 LinkedIn:
+ LinkedIn:
 https://www.linkedin.com/in/prince2028/
 
-📧 Email:
+Email:
 pk20287022@gmail.com
 
 ---
 
-## 💡 Quote
+##  Quote
 
 > "Learning never stops. Every project is a step toward becoming a better engineer."
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
